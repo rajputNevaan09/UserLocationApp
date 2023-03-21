@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>User Location App requires your location to check if the region you are playing from allows the use of online rummy. Your location will be collected only when the Classic Rummy app is in use, you can turn it off anytime in the settings app on your device.</string>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>fetch</string>
+		<string>nearby-interaction</string>
+		<string>processing</string>
+	</array>
+</dict>
+</plist>
